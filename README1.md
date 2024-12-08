@@ -1,9 +1,5 @@
 # This is the Week 0 Project for MoonLight Energy Solutions Data Analytics
 
-Sure! Here’s a summary for your README notes based on the tasks and steps we've discussed:
-
----
-
 # MoonLight Energy Solutions Data Analytics
 
 ## Description
@@ -65,3 +61,7 @@ This project is licensed under the MIT License.
 
 ## All the scripts are in /src folder.
 ## I analyze benin-malanville.csv and sierraleone-bumbuna.csv.
+
+
+By: Eyor Getachew
+Dec 08, 2024
