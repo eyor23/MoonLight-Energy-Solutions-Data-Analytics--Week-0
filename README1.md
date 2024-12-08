@@ -62,3 +62,6 @@ This project focuses on analyzing energy data using various data visualization t
 
 ## License
 This project is licensed under the MIT License.
+
+## All the scripts are in /src folder.
+## I analyze benin-malanville.csv and sierraleone-bumbuna.csv.
